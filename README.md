@@ -11,6 +11,7 @@ Dodane/zmienione:
 Aby uruchomić aplikację należy użyć polecenia: "docker compose up --build" - aplikacja klienta zostanie postawiona na localhost, port 3050.
 
 Działanie aplikacji:
+
 ![image](https://user-images.githubusercontent.com/46346197/148449919-8522ce03-34f2-4009-a720-2d0b1e310e8a.png)
 
 ![image](https://user-images.githubusercontent.com/46346197/148449931-8f3ded73-ff86-4011-aa1b-ac58d23f580a.png)
